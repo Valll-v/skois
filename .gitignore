@@ -1,0 +1,6 @@
+NOTES.md
+инструкции/
+notes/
+.venv/
+__pycache__/
+.idea/
